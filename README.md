@@ -19,3 +19,16 @@ Move selected progress from an old or bloated Half Sword save into a fresh save.
 The source insurance list replaces the destination’s list. The destination keeps its character name, equipped gear, and regular inventory. Reclaim restored insured gear at the trader.
 
 If you need to roll back, use the timestamped backup. Keep your personal `.sav` files and backups out of the repository.
+
+
+## Compatibility
+
+Tested on Windows with Half Sword progression saves using Unreal's GVAS v3 layout. The exact Half Sword game version was not recorded. Migrating to a fresh save resolved menu lag in the original test. Results may vary with the save and game version.
+
+## Download
+
+Get the latest version from the [Releases page](../../releases/latest) and extract the ZIP before running the batch file.
+
+## License
+
+[MIT](LICENSE)
